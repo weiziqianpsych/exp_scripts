@@ -1,0 +1,9 @@
+id,name,gender,grade,school,proc,sen_stim,pic_stim,condition,answer_key,resp,acc,rt
+wzq2023,韋子謙,male,1,教大幼稚園,prac,v1Sen1.wav,v1Pic1.png,1,Y,Y,1,4.020473332988331
+wzq2023,韋子謙,male,1,教大幼稚園,prac,v1Sen2.wav,v2Pic2.png,2,Y,Y,1,3.018491583003197
+wzq2023,韋子謙,male,1,教大幼稚園,exp,v1Sen10.wav,v1Pic10.png,1,Y,Y,1,0.9684951660165098
+wzq2023,韋子謙,male,1,教大幼稚園,exp,v1Sen11.wav,v1Pic11.png,1,Y,Y,1,0.7662410409830045
+wzq2023,韋子謙,male,1,教大幼稚園,exp,v1Sen12.wav,v2Pic12.png,2,Y,Y,1,2.121975540998392
+wzq2023,韋子謙,male,1,教大幼稚園,exp,v1Sen13.wav,v2Pic13.png,2,Y,N,0,0.469145875016693
+wzq2023,韋子謙,male,1,教大幼稚園,exp,ConSen1.wav,ConPic14.png,0,N,Y,0,1.2067116250109393
+wzq2023,韋子謙,male,1,教大幼稚園,exp,ConSen2.wav,ConPic15.png,0,N,Y,0,0.6578867500065826
